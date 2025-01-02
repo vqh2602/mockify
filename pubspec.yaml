@@ -1,8 +1,8 @@
 name: mockify
 description: A Lucide (v0.468.0) icon library package for Flutter applications. Fork of Feather Icons, open for anyone to contribute icons.
 version: 1.0.0-beta.1
-homepage: https://lucide.dev
-repository: https://github.com/vqh2602/lucide-flutter-main
+homepage: https://github.com/vqh2602/mockify
+repository: https://github.com/vqh2602/mockify
 
 environment:
   sdk: ^3.5.4

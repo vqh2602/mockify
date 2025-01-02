@@ -198,7 +198,7 @@ class Mockify {
     final random = Random();
     const domains = ['com', 'org', 'net', 'io', 'co', 'edu'];
     final domain = domains[random.nextInt(domains.length)];
-    return 'https://www.mockify.${domain}';
+    return 'https://www.mockify.$domain';
   }
 
   /// Generate a random UUID.
